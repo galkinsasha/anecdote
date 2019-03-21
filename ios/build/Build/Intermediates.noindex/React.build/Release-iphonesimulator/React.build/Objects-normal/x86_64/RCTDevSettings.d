@@ -1,0 +1,20 @@
+dependencies: \
+  /www/anecdot/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /www/anecdot/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTBridge.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTDefines.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /www/anecdot/ios/build/Build/Products/Release-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /www/anecdot/ios/build/Build/Products/Release-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /www/anecdot/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTLog.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTAssert.h \
+  /www/anecdot/node_modules/react-native/React/Base/RCTUtils.h \
+  /www/anecdot/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /www/anecdot/node_modules/react-native/React/Profiler/RCTProfile.h
